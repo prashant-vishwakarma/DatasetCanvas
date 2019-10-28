@@ -99,12 +99,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 saveDrawing();
-                //Toast.makeText(MainActivity.this, "Button Clicked", Toast.LENGTH_SHORT).show();
             }
         });
 
-        //textViews = listRecyclerAdapter.getTextViews();
-        //Toast.makeText(MainActivity.this, "" + textViews.size(), Toast.LENGTH_SHORT).show();
         isWriteStoragePermissionGranted();
 
 
@@ -123,7 +120,6 @@ public class MainActivity extends AppCompatActivity {
                 file = new File(android.os.Environment.getExternalStorageDirectory(), "Dataset Canvas");
                 if (!file.exists()) {
                     file.mkdirs();
-
                 }
                 f = new File(file.getAbsolutePath() + file.separator + count + ".png");
             }
@@ -210,7 +206,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 count = textViews.indexOf(t);
-                //Toast.makeText(MainActivity.this, "Count = " + count, Toast.LENGTH_SHORT).show();
                 canvasView.clear();
                 if (t.getCurrentTextColor() != ContextCompat.getColor(MainActivity.this, R.color.scrollview_item_saved) && t.getCurrentTextColor() != ContextCompat.getColor(MainActivity.this, R.color.scrollview_item_saved_selected)) {
                     t.setTextColor(ContextCompat.getColor(MainActivity.this, R.color.scrollview_item_selected));
