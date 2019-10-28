@@ -1,3 +1,4 @@
+<!-- Must Change developer_email to Specific Email -->
 <resources>
     <string name="app_name">Dataaset Canvas</string>
     <string name="str_save_image_text">Your images has been saved in gallery at </string>
