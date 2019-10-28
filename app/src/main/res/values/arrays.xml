@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="InputList">
+        <item>का</item>
+        <item>की</item>
+        <item>कु</item>
+        <item>के</item>
+        <item>कौ</item>
+        <item>कं</item>
+        <item>चा</item>
+        <item>ची</item>
+        <item>चु</item>
+        <item>चे</item>
+        <item>चौ</item>
+        <item>चं</item>
+        <item>ता</item>
+        <item>ती</item>
+        <item>तु</item>
+        <item>ते</item>
+        <item>तौ</item>
+        <item>तं</item>
+        <item>टा</item>
+        <item>टी</item>
+        <item>टु</item>
+        <item>टे</item>
+        <item>टौ</item>
+        <item>टं</item>
+        <item>पा</item>
+        <item>पी</item>
+        <item>पु</item>
+        <item>पे</item>
+        <item>पौ</item>
+        <item>पं</item>
+    </array>
+</resources>
