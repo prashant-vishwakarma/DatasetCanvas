@@ -18,6 +18,4 @@ Images can then be sent to the Developer Email as found in resources/strings.xml
 
 ##Screenshots
 
-![image](https://user-images.githubusercontent.com/47455409/67678105-cc128380-f9ab-11e9-8c4e-6551004cc71c.png)
-![image](https://user-images.githubusercontent.com/47455409/67678219-1b58b400-f9ac-11e9-9c31-ad1e95e28b3b.png)
-![image](https://user-images.githubusercontent.com/47455409/67678307-5529ba80-f9ac-11e9-8042-ade212aebc80.png)
+![image](https://user-images.githubusercontent.com/47455409/67678105-cc128380-f9ab-11e9-8c4e-6551004cc71c.png) ![image](https://user-images.githubusercontent.com/47455409/67678219-1b58b400-f9ac-11e9-9c31-ad1e95e28b3b.png) ![image](https://user-images.githubusercontent.com/47455409/67678307-5529ba80-f9ac-11e9-8042-ade212aebc80.png)
